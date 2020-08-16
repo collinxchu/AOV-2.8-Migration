@@ -1,16 +1,21 @@
-- category: ===PROLOGUE===
+- category: ===INTRO===
   songs:
     - name: '[JFA] Toccata and Fugue.opus'
+    - name: '[DD] The Legend of Tenma Taro.opus'
     - name: '[PLvsAA] Opening Theme.opus'
     - name: '[AAHD] Opening Theme.opus'
     - name: '[DGS] The Adventure of the Great Departure.opus'
     - name: '[DGS] Dawn of the Unspeakable Story.opus'
     - name: '[DGS] Burst of Flames.opus'
     - name: '[DGS] The Final Tragedy.opus'
+    - name: '[DGS] The Musings of Sherlock Holmes.opus'
+    - name: '[DGS] The Thoughts of Sherlock Holmes.opus'
     - name: "[DGS2] The Great Detective's Friendship.opus"
     - name: '[DGS2] The Legend of the Baskervilles.opus'
+    - name: '[DR] Danganronpa.opus'
     - name: '[Ani] Opening Season 1.opus'
     - name: '[Ani] Opening Season 2.opus'
+    - name: '[DC] Detective Conan.opus'
     - name: '[LS] Theme of the Devils Flute.opus'
     - name: '[CB] Tank!.opus'
 - category: ===PRELUDE===
@@ -30,6 +35,7 @@
     - name: '[DGS2] Prelude to Resolve.opus'
     - name: '[DGS2] Prelude to the Blossoming Attorney.opus'
     - name: '[GT] Prelude.opus'
+    - name: '[GT] Bizarre People.opus' #rename to Awakening
     - name: '[FFVII] Prelude.opus'
 - category: ===TRIAL===
   songs:
@@ -49,10 +55,18 @@
     - name: '[AAI] Trial.opus'
     - name: '[PLvsAA] Trial (English).opus'
     - name: '[PLvsAA] Trial.opus'
+    - name: '[PLvsAA] Verdict (Witch Trial).opus'
     - name: '[PLvsAA] Trial (Finale).opus'
+    - name: '[PLvsAA] Mysterious Witness.opus'
+    - name: '[PLvsAA] The Final Witness.opus'
     - name: '[DGS] Trial.opus'
     - name: '[DGS] Trial (15th).opus'
     - name: '[DGS] Trial (DLC).opus'
+    - name: '[DGS] Witnesses Enter the Court.opus'
+    - name: '[DGS] Verdict.opus'
+    - name: '[DGS] Verdict (DLC).opus'
+    - name: '[DGS] Reasoning Battle - Start.opus'
+    - name: '[DGS] Reasoning Battle - Defeat.opus'
     - name: '[DGS2] Trial.opus'
     - name: '[DGS2] Trial (DLC).opus'
     - name: '[DGS2] Trial (DLC-2).opus'
@@ -73,6 +87,9 @@
     - name: '[PLvsAA] Logic and Tricks.opus'
     - name: '[PLvsAA] Logic and Baroque.opus'
     - name: '[PLvsAA] Magic Logic.opus'
+    - name: "[PLvsAA] Gentlemen's Debate.opus"
+    - name: "[PLvsAA] Gentlemen's Deductions.opus"
+    - name: '[PLvsAA] Bright Debate.opus'
     - name: '[DGS] Logic and Tricks.opus'
     - name: '[DGS] Deduction - Beyond the Logic.opus'
     - name: '[DR] Climax Reasoning.opus'
@@ -91,6 +108,9 @@
     - name: '[SoJ] The Basics of the Case.opus'
     - name: '[TT] The Basics of The Case.opus'
     - name: '[M] The Basics of The Case.opus'
+    - name: '[IQ] A Grand Theory (Opening).opus'
+    - name: '[IQ] A Grand Theory (Finale).opus'
+    - name: '[L&D] Funk Debate.opus' #todo
 - category: ===SUSPENSE===
   songs:
     - name: '[AA] Suspense.opus'
@@ -103,68 +123,43 @@
     - name: '[PLvsAA] Doubt and Suspicion.opus'
     - name: '[PLvsAA] Rising Tensions.opus'
     - name: '[PLvsAA] Rescue and Retribution.opus'
+    - name: '[PLvsAA] Confrontation.opus'
     - name: '[DGS] Suspense.opus'
     - name: '[DGS] Suspense (Variation).opus'
     - name: '[TT] Suspense.opus'
     - name: '[U] Suspense.opus'
     - name: '[999] Chill and Rigor.opus'
     - name: '[999] Eternitybox.opus'
+    - name: '[999] Foreboding.opus'
+    - name: '[999] Extreme Extrication.opus'
     - name: '[VLR] Fleeting Fate.opus'
     - name: '[FFX] Suspense.opus'
     - name: '[ZTD] Suspense.opus'
+    - name: '[ZTD] Make Your Choice.opus'
     - name: '[GT] Suspense.opus'
     - name: '[P4] Suspense.opus'
     - name: '[DP] Suspense.opus'
+    - name: '[JJ] Killer People.opus'
     - name: '[OFF] Suspense.opus'
 - category: ===CRISIS===
   songs:
     - name: '[JFA] Hotline of Fate.opus'
     - name: '[DD] Illegality of Fate.opus'
+    - name: '[DD] The Dark Age of the Law.opus'
     - name: '[AAI] Crisis of Fate.opus'
     - name: '[AAI2] Trifle of Fate.opus'
     - name: '[PLvsAA] A Pinch of Trouble.opus'
     - name: '[DGS] Trial in Disarray.opus'
+    - name: '[DGS] Omen.opus'
+    - name: '[DGS2] Murder in the Dark.opus'
+    - name: '[Ani] Oral Argument.opus'
     - name: '[GT] Countdown.opus'
     - name: '[O] Stand A Crisis.opus'
-    - name: '[999] Foreboding.opus'
     - name: '[SMT] Demonic Crisis.opus'
     - name: '[DN] Ultimate Crisis.opus'
+    - name: '[DR] Desperate People.opus'
     - name: '[C2] Nuclear Crisis.opus'
-- category: ===DEBATE & ICE BREAKER===
-  songs:
-    - name: '[PLvsAA] Bright Debate.opus'
-    - name: "[PLvsAA] Gentlemen's Debate.opus"
-    - name: "[PLvsAA] Gentlemen's Deductions.opus"
-    - name: '[PLvsAA] Confrontation.opus'
-    - name: '[DGS] Reasoning Battle - Start.opus'
-    - name: '[DGS] Reasoning Battle - Defeat.opus'
-    - name: '[DGS] Joint Reasoning (Type A).opus'
-    - name: '[DGS] Joint Reasoning (Type A-2).opus'
-    - name: '[DGS] Joint Reasoning (Type B).opus'
-    - name: '[DGS] Joint Reasoning (Type C).opus'
-    - name: '[DGS] Joint Reasoning (Type C-2).opus'
-    - name: '[15th] Joint Reasoning (Type O).opus'
-    - name: '[DGS2] Partners - The Game is Afoot!.opus'
-    - name: '[DGS2] Partners - The Game is Afoot! (No Intro).opus'
-    - name: '[DGS2] Partners - The Game is Afoot! (DLC).opus'
-    - name: '[DGS2] Partners - A Reasoning Battle.opus'
-    - name: '[15th] Partners - The Game is Afoot!.opus'
-    - name: '[Ani] Oral Argument.opus'
-    - name: '[L&D] Funk Debate.opus'
-    - name: '[DRv3] Scrum Debate.opus'
-    - name: '[999] Extreme Extrication.opus'
-    - name: '[TT] The Dead Shall Speak.opus'
-    - name: '[ZTD] Make Your Choice.opus'
-- category: ===DETENTION CENTER===
-  songs:
-    - name: '[AA] Detention Center.opus'
-    - name: '[JFA] Detention Center.opus'
-    - name: '[T&T] Detention Center.opus'
-    - name: '[AJ] Detention Center.opus'
-    - name: '[DD] Detention Center.opus'
-    - name: '[SoJ] Detention Center (Japanifornia).opus'
-    - name: "[SoJ] Detention Center (Khura'in).opus"
-    - name: '[DGS] Detention Center.opus'
+    - name: '[PLvsAA] Omen.opus'
 - category: ===INVESTIGATION===
   songs:
     - name: '[AA] Investigation (Opening).opus'
@@ -242,6 +237,7 @@
     - name: '[DR] Questioning (Moderato).opus'
     - name: '[DR] Questioning (Allegro).opus'
     - name: '[DR] Questioning (Presto).opus'
+    - name: '[DRv3] Scrum Debate.opus'
     - name: '[GT] Questioning (Moderato).opus'
     - name: '[GT] Questioning (Allegro).opus'
     - name: '[GSM] Questioning (Allegro).opus'
@@ -278,10 +274,18 @@
     - name: '[AJ] Psyche Locks.opus'
     - name: '[DD] Psyche Locks.opus'
     - name: '[AJ] Perceive - Surging Eyes.opus'
+    - name: "[AJ] The Guitar's Serenade.opus"
     - name: '[DD] Mood Matrix (Moderato).opus'
     - name: '[DD] Mood Matrix (Allegro).opus'
     - name: '[DD] Thought Route.opus'
     - name: '[DDxDR2] Thought Route.opus'
+    - name: '[DGS] Joint Reasoning (Type A).opus'
+    - name: '[DGS] Joint Reasoning (Type A-2).opus'
+    - name: '[DGS] Joint Reasoning (Type B).opus'
+    - name: '[DGS] Joint Reasoning (Type C).opus'
+    - name: '[DGS] Joint Reasoning (Type C-2).opus'
+    - name: '[15th] Joint Reasoning (Type O).opus'
+    - name: '[DGS] Closing Argument.opus'
     - name: '[SoJ] The Dance of Devotion.opus'
     - name: '[SoJ] Divination Seance.opus'
     - name: '[SoJ] Divination Seance (Variation).opus'
@@ -344,22 +348,6 @@
     - name: '[DGS] Confess The Truth (DLC) (Variation).opus'
     - name: '[DR] Confess The Truth.opus'
     - name: '[DR] Confess The Truth (Variation).opus'
-- category: ===LAST CHANCE===
-  songs:
-    - name: '[PLvsAA] Prelude to The Turnabout.opus'
-    - name: '[PLvsAA] The Final Witness.opus'
-    - name: '[DGS] Closing Argument.opus'
-    - name: '[DGS2] Murder in the Dark.opus'
-    - name: '[IQ] A Grand Theory (Opening).opus'
-    - name: '[IQ] A Grand Theory (Finale).opus'
-    - name: '[TTGL] Pierce the Heavens.opus'
-    - name: '[PLvsAA] Omen.opus'
-    - name: '[DGS] Omen.opus'
-    - name: '[PLvsAA] Verdict (Witch Trial).opus'
-    - name: '[DGS] Verdict.opus'
-    - name: '[DGS] Verdict (DLC).opus'
-    - name: '[PM] Light Up The Night.opus'
-    - name: '[BT] I Need a Hero.opus'
 - category: ===PURSUIT===
   songs:
     - name: '[AA] Pursuit.opus'
@@ -390,6 +378,7 @@
     - name: '[AAI2] Pursuit (Variation).opus'
     - name: '[PLvsAA] Pursuit (English).opus'
     - name: '[PLvsAA] Pursuit.opus'
+    - name: '[PLvsAA] Prelude to The Turnabout.opus'
     - name: '[DGS] Pursuit.opus'
     - name: '[DGS] Pursuit (Variation).opus'
     - name: '[DGS2] Pursuit.opus'
@@ -414,8 +403,24 @@
     - name: '[O] Pursuit.opus'
     - name: '[U] Pursuit.opus'
     - name: '[AOV] Pursuit (Kay Faraday).opus'
-- category: ===REMINISCENCE===
+    - name: '[TTGL] Pierce the Heavens.opus'
+- category: ===DRAMATIC===
   songs:
+    - name: '[PLvsAA] Locked-Away Darkness.opus'
+    - name: '[PLvsAA] The Legendary Great Fire.opus'
+    - name: '[FE] Unwavering People.opus'
+    - name: '[PM] Light Up The Night.opus'
+    - name: '[BT] I Need a Hero.opus'
+- category: ===MELANCHOLY===
+  songs:
+    - name: '[AA] Detention Center.opus'
+    - name: '[JFA] Detention Center.opus'
+    - name: '[T&T] Detention Center.opus'
+    - name: '[AJ] Detention Center.opus'
+    - name: '[DD] Detention Center.opus'
+    - name: '[SoJ] Detention Center (Japanifornia).opus'
+    - name: "[SoJ] Detention Center (Khura'in).opus"
+    - name: '[DGS] Detention Center.opus'
     - name: '[AA] True Evening of Grief.opus'
     - name: '[AA] Light and Shadow of the Film Studio.opus'
     - name: '[AA] The DL-6 Incident.opus'
@@ -425,7 +430,6 @@
     - name: '[JFA] Scars Carved by Fire.opus'
     - name: '[JFA] True Pain.opus'
     - name: "[JFA] The Steel Samurai's Ballad.opus"
-    - name: "[JFA] Prosecutor's Murmur - Until We Meet Again.opus"
     - name: '[T&T] I Blame You, Dear.opus'
     - name: '[T&T] The Scenery of Dusky Bridge.opus'
     - name: '[T&T] The Bitter Taste of Truth.opus'
@@ -435,13 +439,10 @@
     - name: '[DD] Wandering Heart.opus'
     - name: '[DD] The Depths of the Depths of the Heart.opus'
     - name: '[DD] A Sad Memory.opus'
-    - name: '[DD] Departure from Regret.opus'
     - name: '[SoJ] Smile, No Matter What.opus'
     - name: '[SoJ] A Final Conversation.opus'
-    - name: '[SoJ] Farewell, Once Again.opus'
-    - name: '[SoJ] Each of Their Feelings.opus'
     - name: '[SoJ] A Cornered Heart.opus'
-    - name: '[SoJ] Inherited Hopes.opus'
+    - name: '[AAI] Doubted People.opus'
     - name: '[AAI] False Relations.opus'
     - name: '[AAI] The KG-8 Incident.opus'
     - name: '[AAI] Torn Apart Countries.opus'
@@ -449,49 +450,110 @@
     - name: "[AAI2] The Girl's Lost Memories.opus"
     - name: '[AAI2] The Fall of the House of Lang.opus'
     - name: '[AAI2] The SS-5 Incident.opus'
-    - name: '[PLvsAA] A Puzzling History.opus'
-    - name: '[PLvsAA] A Quiet Moment.opus'
     - name: '[PLvsAA] Bewitched Fate.opus'
     - name: '[PLvsAA] Golden Revelation.opus'
-    - name: '[PLvsAA] Locked-Away Darkness.opus'
     - name: '[PLvsAA] Twilight Memories.opus'
-    - name: '[PLvsAA] The Legendary Great Fire.opus'
     - name: '[PLvsAA] The Ruler And the Alchemist.opus'
-    - name: "[DGS] Ryunosuke's Memories.opus"
-    - name: "[DGS] Ryunosuke's Memories (DLC).opus"
     - name: '[DGS] Hate the Sins, Not the Sinner.opus'
     - name: '[DGS] Vanished Fairy.opus'
     - name: '[DGS] An Ashen Dance.opus'
-    - name: '[DGS] The Musings of Sherlock Holmes.opus'
-    - name: '[DGS] The Thoughts of Sherlock Holmes.opus'
     - name: "[DGS] The Great Detective's Melancholy.opus"
-    - name: '[DGS] Serenade.opus'
-    - name: '[15th] Serenade.opus'
-    - name: '[DGS2] A Farewell - His Last Bow.opus'
-    - name: "[DGS2] At Ambition's End.opus"
     - name: '[DGS2] Bitter Memories.opus'
     - name: '[DGS2] Bonds Forged in Travel.opus'
     - name: '[DGS2] Intersecting Murders.opus'
     - name: '[DGS2] Shattered Formulas.opus'
-    - name: '[DGS2] Solo of Rage.opus'
     - name: '[DGS2] Surrounded by Nothingness.opus'
-    - name: '[DGS2] The Gate to the Truth.opus'
     - name: "[DGS2] The Grim Reaper's Memories.opus"
-    - name: '[DGS2] The Thoughts of Ryunosuke Naruhodo.opus'
-    - name: '[PLvsAA] Music Box - Turnabout Sisters.opus'
-    - name: '[DGS] Music Box - The Beginning Tone.opus'
-    - name: '[DGS] Music Box - The Great Detective of the Foggy Town.opus'
-    - name: '[DGS2] Music Box - The Neverending Great Turnabout.opus'
     - name: '[GT] Informing About the Parting.opus'
     - name: '[GT] Providence.opus'
     - name: '[999] Morphogenetic Sorrow.opus'
     - name: '[999] Recollection.opus'
     - name: "[VLR] Blue Bird's Lamentation.opus"
     - name: '[P5] Regret.opus'
+    - name: '[DP] York and Zach.opus'
+    - name: '[TT] The Dead Shall Speak.opus'
+    - name: '[S&G] Depressing People.opus'
+- category: ===SENTIMENTAL===
+  songs:
+    - name: "[JFA] Prosecutor's Murmur - Until We Meet Again.opus"
+    - name: '[DD] Departure from Regret.opus'
+    - name: '[SoJ] Farewell, Once Again.opus'
+    - name: '[SoJ] Each of Their Feelings.opus'
+    - name: '[SoJ] Inherited Hopes.opus'
+    - name: '[AAI2] Bonds - A Heart That Believes.opus'
+    - name: '[DGS] Serenade.opus'
+    - name: '[15th] Serenade.opus'
+    - name: "[DGS2] Each One's Path.opus"
+    - name: "[DGS] Ryunosuke's Memories.opus"
+    - name: "[DGS] Ryunosuke's Memories (DLC).opus"
+    - name: '[DGS2] A Farewell - His Last Bow.opus'
+    - name: "[DGS2] At Ambition's End.opus"
+    - name: '[DGS2] The Gate to the Truth.opus'
+    - name: '[DGS2] The Thoughts of Ryunosuke Naruhodo.opus'
+    - name: '[DP] Life is Beautiful.opus'
     - name: '[P5] Guilt.opus'
     - name: '[PR] Bygone Days.opus'
-    - name: '[DP] York and Zach.opus'
     - name: '[GSM] The Icy Road Forward.opus'
+- category: ===UPBEAT TIMES===
+  songs:
+    - name: '[AA] Blissful People.opus'
+    - name: '[JFA] Eccentric People.opus'
+    - name: '[JFA] More Blissful People.opus'
+    - name: '[AJ] Eccentric People.opus'
+    - name: '[DD] Difficult People.opus'
+    - name: '[DD] Lively People.opus'
+    - name: '[DD] Suspicious People.opus'
+    - name: "[SoJ] It's show time!.opus"
+    - name: '[SoJ] Will You Marry Me.opus'
+    - name: '[SoJ] Cheerful People.opus'
+    - name: '[SoJ] Strange People.opus'
+    - name: '[AAI] Interesting People.opus'
+    - name: '[AAI] Noisy People.opus'
+    - name: '[AAI2] Restless People.opus'
+    - name: '[AAI2] Strange People.opus'
+    - name: '[PLvsAA] Naive People.opus'
+    - name: '[DGS] Elegant People.opus'
+    - name: '[DGS] Lively People.opus'
+    - name: '[DGS] Russian People.opus'
+    - name: '[DGS] Seafaring People.opus'
+    - name: '[DGS] Suspicious People.opus'
+    - name: '[DGS2] Clockwork People.opus'
+    - name: '[DGS2] Partners - The Game is Afoot!.opus'
+    - name: '[DGS2] Partners - The Game is Afoot! (No Intro).opus'
+    - name: '[DGS2] Partners - The Game is Afoot! (DLC).opus'
+    - name: '[DGS2] Partners - A Reasoning Battle.opus'
+    - name: '[15th] Partners - The Game is Afoot!.opus'
+    - name: '[N] Cowardly People.opus'
+    - name: '[O] Procrastination.opus'
+    - name: '[TC] Gentle Breeze.opus'
+    - name: '[LM] Stupid People.opus'
+    - name: '[DGS2] Solo of Rage.opus'
+- category: ===RELAXING MOMENT===
+  songs:
+    - name: '[P3] 3 31.opus'
+    - name: '[O] A Vision.opus'
+    - name: '[C] Also Sprach Brooks.opus'
+    - name: '[SoJ] Fourteen Years Ago.opus'
+    - name: '[PLvsAA] A Mysterious Tale.opus'
+    - name: '[PLvsAA] Fiery People.opus'
+    - name: '[PLvsAA] A Puzzling History.opus'
+    - name: '[PLvsAA] A Quiet Moment.opus'
+    - name: '[PLvsAA] Rainy Night.opus'
+    - name: '[KD] Katamari People.opus'
+    - name: '[KD] Rolling People.opus'
+    - name: '[P5] Beneath the Mask.opus'
+    - name: '[P5] Beneath the Mask (Rain).opus'
+    - name: '[P3] Blues In Velvet Room.opus'
+    - name: '[GT] Chase.opus'
+    - name: "[T&T] Godot's Jazz Blend.opus"
+    - name: '[B] In the Speak Easy.opus'
+    - name: '[PLvsAA] In-Flight.opus'
+    - name: '[AC] 7pm.opus'
+    - name: '[C] Jouji Washington.opus'
+    - name: '[HD] Monochrome.opus'
+    - name: '[HD] Straight Chaser.opus'
+    - name: '[P3R] Want To Be Close.opus'
+    - name: '[JJ] Standoffish People.opus'
 - category: ===VICTORY CELEBRATION===
   songs:
     - name: '[AA] Victory!.opus'
@@ -533,41 +595,8 @@
     - name: '[EB] Ending.opus'
     - name: '[SM64] Ending.opus'
     - name: '[P3] Ending.opus'
-- category: ===PEOPLE THEMES===
-  songs:
-    - name: '[AA] Blissful People.opus'
-    - name: '[JFA] Eccentric People.opus'
-    - name: '[JFA] More Blissful People.opus'
-    - name: '[AJ] Eccentric People.opus'
-    - name: '[DD] Difficult People.opus'
-    - name: '[DD] Lively People.opus'
-    - name: '[DD] Suspicious People.opus'
-    - name: '[SoJ] Cheerful People.opus'
-    - name: '[SoJ] Strange People.opus'
-    - name: '[AAI] Doubted People.opus'
-    - name: '[AAI] Interesting People.opus'
-    - name: '[AAI] Noisy People.opus'
-    - name: '[AAI2] Restless People.opus'
-    - name: '[AAI2] Strange People.opus'
-    - name: '[PLvsAA] Naive People.opus'
-    - name: '[PLvsAA] Fiery People.opus'
-    - name: '[DGS] Elegant People.opus'
-    - name: '[DGS] Lively People.opus'
-    - name: '[DGS] Russian People.opus'
-    - name: '[DGS] Seafaring People.opus'
-    - name: '[DGS] Suspicious People.opus'
-    - name: '[DGS2] Clockwork People.opus'
-    - name: '[DR] Desperate People.opus'
-    - name: '[KD] Katamari People.opus'
-    - name: '[KD] Rolling People.opus'
-    - name: '[FE] Unwavering People.opus'
-    - name: '[N] Cowardly People.opus'
-    - name: '[LM] Stupid People.opus'
-    - name: '[GT] Bizarre People.opus'
-    - name: '[S&G] Depressing People.opus'
-    - name: '[JJ] Killer People.opus'
-    - name: '[JJ] Standoffish People.opus'
-- category: ===GENERAL THEMES===
+    - name: '[YES] Roundabout.opus'
+- category: ===LOCATIONS===
   songs:
     - name: '[JFA] Berry Big Circus.opus'
     - name: '[JFA] Kurain Village.opus'
@@ -575,42 +604,28 @@
     - name: '[T&T] Lordly Tailor.opus'
     - name: '[T&T] Tres Bien.opus'
     - name: '[AJ] Drew Studio.opus'
-    - name: '[AJ] Kitaki Family.opus'
-    - name: "[AJ] The Guitar's Serenade.opus"
     - name: '[AJ] Solitary Confinement - Darkness.opus'
-    - name: '[AJ] Troupe Gramarye.opus'
     - name: '[AAI] Two Embassies - The Lands of the Butterfly and the Flower.opus'
-    - name: '[AAI] Yatagarasu - The Gentleman Thief Who Dances in the Black Night.opus'
-    - name: '[AAI2] Bonds - A Heart That Believes.opus'
-    - name: '[AAI2] Prosecutorial Investigation Committee - Rigorous Justice.opus'
-    - name: '[AAI2] The Great Moozilla.opus'
     - name: '[AAI2] Zheng Fa - Land of the Phoenix.opus'
     - name: '[DD] Themis Legal Academy - Our Precious School.opus'
-    - name: '[DD] The Dark Age of the Law.opus'
     - name: '[DD] Nine-Tails Vale - Home of the Youkai.opus'
     - name: '[DD] Robot Laboratory - Unerasable Past.opus'
-    - name: '[DD] Amazing Nine-Tails.opus'
-    - name: '[DD] The Legend of Tenma Taro.opus'
     - name: '[DD] Shipshape Aquarium - A Refreshing Sea.opus'
     - name: '[SoJ] Audience Chamber.opus'
-    - name: '[SoJ] Fourteen Years Ago.opus'
-    - name: "[SoJ] It's show time!.opus"
     - name: "[SoJ] Khura'inese Towns.opus"
     - name: '[SoJ] Kurain Village.opus'
-    - name: '[SoJ] Troupe Gramarye.opus'
-    - name: '[SoJ] Courtroom Revolution.opus'
+    - name: '[SoJ] Courtroom Revolution.opus' #todo
     - name: '[SoJ] Sanctuary.opus'
-    - name: '[SoJ] The Woman Freed.opus'
-    - name: '[SoJ] Will You Marry Me.opus'
-    - name: '[PLvsAA] A Mysterious Tale.opus'
+    - name: '[SoJ] The Woman Freed.opus' #todo
+    - name: '[PLvsAA] Bakery.opus'
     - name: '[PLvsAA] Ink Workshop.opus'
+    - name: "[PLvsAA] Rouge's Tavern.opus"
     - name: '[PLvsAA] Labyrinthia at Day.opus'
     - name: '[PLvsAA] Labyrinthia at Night.opus'
     - name: '[PLvsAA] Labyrinthian Festival.opus'
     - name: '[PLvsAA] Labyrinthian Ruins.opus'
     - name: '[PLvsAA] London - Walking Through the Town.opus'
-    - name: '[PLvsAA] Mysterious Witness.opus'
-    - name: '[PLvsAA] Rainy Night.opus'
+    - name: '[PLvsAA] The Lost Forest.opus'
     - name: "[PLvsAA] The Courtroom's Magician.opus"
     - name: "[PLvsAA] The Storyteller's Chambers.opus"
     - name: "[PLvsAA] The Storyteller's Garden.opus"
@@ -621,26 +636,21 @@
     - name: '[DGS] 221B Bakers Street.opus'
     - name: '[DGS] London - Business as Usual.opus'
     - name: '[DGS] London - The Foggy City.opus'
-    - name: '[DGS] Witnesses Enter the Court.opus'
-    - name: "[DGS2] Each One's Path.opus"
     - name: '[DGS2] The Great Exhibition.opus'
     - name: '[DGS2] The Great Exhibition (DLC).opus'
     - name: '[DGS2] The Wax Museum.opus'
-    - name: '[DGS2] The Prison Guards.opus'
-    - name: '[DR] Danganronpa.opus'
-    - name: '[GT] A Ray of Light.opus'
-    - name: '[GT] An Enveloping Smell of Roses.opus'
-    - name: '[GT] Beauty and Dandy.opus'
+    - name: '[C] Roux.opus'
     - name: '[GT] Chicken Paradise.opus'
-    - name: '[GT] Elegy for the Torn-off Gentleman.opus'
     - name: '[GT] The World of the Dead.opus'
     - name: '[GT] Welcome to the Salon.opus'
-    - name: '[DC] Detective Conan.opus'
+    - name: '[O] Brick Ballades Houston Street.opus'
+    - name: '[RK] The Lazy Detective Agency.opus' #Rename to [SMT]
     - name: '[Wii] Channel.opus'
 - category: ===CHARACTER THEMES===
   songs:
     - name: '[P4U] Aigis - Heartful Cry.opus'
     - name: "[SoJ] Amara Sigatar Khura'in - Her Eminence Reborn.opus"
+    - name: '[DD] Amazing Nine-Tails.opus'
     - name: "[DD] Apollo Justice - I'm Fine!.opus"
     - name: '[MGS5] Apollo Justice - Nuclear.opus'
     - name: '[DGS] Asougi Kazuma - Samurai With a Mission.opus'
@@ -651,6 +661,7 @@
     - name: '[DGS2] Asougi Kazuma - Grand Revival.opus'
     - name: "[DD] Athena Cykes - Let's Do This!.opus"
     - name: '[DGS] Barok van Zieks - Grim Reaper of the Great Court.opus'
+    - name: '[GT] Beauty and Dandy.opus'
     - name: '[DD] Bobby Fulbright - In Justice We Trust!.opus'
     - name: '[AAI] Calisto Yew - Let Me Laugh at the Cool.opus'
     - name: '[AAI] Cammy Meele - Good Niiight.opus'
@@ -702,10 +713,12 @@
     - name: '[MM] Jean Descole - Descent of the Phantom.opus'
     - name: '[AAI2] Jeffrey Master - Sweet Happiness.opus'
     - name: '[AAI2] John Marsh - Pointed Age.opus'
+    - name: '[GT] Elegy for the Torn-off Gentleman.opus' #rename to Justice Minister ~ Elegy for the Torn-off Gentleman
     - name: '[AAI2] Justine Courtney - Goddess of Law.opus'
     - name: '[15th] Justine Courtney - Goddess of Law.opus'
     - name: '[AAI2] Katherine Hall - Sweet Dance.opus'
     - name: '[AAI] Kay Faraday - The Great Truth Burglar.opus'
+    - name: '[AJ] Kitaki Family.opus'
     - name: '[AJ] Klavier Gavin - Guilty Love.opus'
     - name: "[SoJ] Lady Kee'ra - The Guardian of Khura'in.opus"
     - name: '[AJ] Lamiroir - Landscape Painter in Sound.opus'
@@ -714,6 +727,7 @@
     - name: '[FE] Lucina - Challenger of Fate.opus'
     - name: '[T&T] Luke Atmey - I Just Want Love.opus'
     - name: '[GT] Lynne - A Targeted Redhead.opus'
+    - name: '[GT] An Enveloping Smell of Roses.opus' #rename to Madam ~ An Enveloping Smell of Roses 
     - name: '[Ani] Manfred von Karma - The Invincible Prosecutor.opus'
     - name: '[DGS2] Mamemomi Heita - Justice from Reporter Mamemomi.opus'
     - name: '[AA] Marvin Grossberg - Age, Regret, Retribution.opus'
@@ -746,9 +760,11 @@
     - name: '[DD] Phantom - UNKNOWN.opus'
     - name: "[PLvsAA] Professor Layton - Layton's Theme.opus"
     - name: "[PLvsAA] Professor Layton - Layton's Theme (Variation).opus"
+    - name: '[AAI2] Prosecutorial Investigation Committee - Rigorous Justice.opus'
     - name: '[SF] Q - The Theme of Q.opus'
     - name: '[AAI] Quercus Alba - The Enemy Who Surpasses the Law.opus'
     - name: "[FZ] Ranger Justice - Meaning of Justice.opus"
+    - name: '[GT] A Ray of Light.opus' #rename to Ray - A Ray of Light
     - name: "[SoJ] Rayfa Padma Khura'in - The Unyielding Medium Princess.opus"
     - name: '[AAI2] Raymond Shields - Joking Motive.opus'
     - name: '[Ani] Redd White - Imperious President.opus'
@@ -769,14 +785,18 @@
     - name: '[AAI2] Simon Keyes - The Man Who Masterminds The Game.opus'
     - name: '[AAI2] Sirhan Dogen - Tone of an Assassin.opus'
     - name: '[AA] The Blue Badger - I Want to Protect.opus'
+    - name: '[AAI2] The Great Moozilla.opus'
     - name: "[SoJ] The Holy Mother - The Teachings of Khura'in.opus"
     - name: '[SoJ] The Plumed Punisher - Warrior of Neo Twilight Realm.opus'
+    - name: '[DGS2] The Prison Guards.opus'
     - name: '[DGS2] The Professor - The Phantom Lives.opus'
     - name: '[SoJ] The Revolutionaries - Defiant Dragons.opus'
     - name: '[AA] The Steel Samurai - Warrior of Neo Olde Tokyo.opus'
     - name: '[PLvsAA] The Storyteller - Penning the Past, Present and Future.opus'
     - name: '[DGS] Tobias Gregson - The Enemy of Great Detective.opus'
     - name: '[P4U] Tohru Adachi - The Egocentric Police Dick.opus'
+    - name: '[AJ] Troupe Gramarye.opus'
+    - name: '[SoJ] Troupe Gramarye.opus'
     - name: '[AJ] Trucy Wright - Child of Jazz.opus'
     - name: '[AJ] Trucy Wright - Child of Magic.opus'
     - name: '[DD] Trucy Wright - Child of Magic.opus'
@@ -784,11 +804,12 @@
     - name: '[SoJ] Uendo Toneido - The Laughing Typhoon.opus'
     - name: '[T&T] Victor Kudo - How Sad, the Melody of This War Song.opus'
     - name: '[DGS2] William Petenshy - Shakespeare of the Slums.opus'
+    - name: '[AAI] Yatagarasu - The Gentleman Thief Who Dances in the Black Night.opus'
     - name: '[DD] Yuri Cosmos - Head of the Center of the Universe.opus'
     - name: '[P4U] Yu Narukami - Reach Out To The Truth.opus'
     - name: '[PLvsAA] Zacharias Barnham - The Sword of Labyrinthia.opus'
     - name: '[AAI] Zinc Lablanc - Time is Money.opus'
-- category: ===RINGTONES===
+- category: ===JINGLES===
   songs:
     - name: '[JFA] Ringtone - Toccata and Fugue.opus'
     - name: '[JFA] Ringtone - Phoenix.opus'
@@ -796,34 +817,11 @@
     - name: '[AJ] Ringtone - Guilty Love.opus'
     - name: '[AAI2] Ringtone - Moozilla.opus'
     - name: "[SoJ] Ringtone - Guitar's Serenade.opus"
+    - name: '[PLvsAA] Music Box - Turnabout Sisters.opus'
+    - name: '[DGS] Music Box - The Beginning Tone.opus'
+    - name: '[DGS] Music Box - The Great Detective of the Foggy Town.opus'
+    - name: '[DGS2] Music Box - The Neverending Great Turnabout.opus'
     - name: '[ToX2] Ringtone - Eternal Mind.opus'
-- category: ===RELAXING MOMENT===
-  songs:
-    - name: '[P3] 3 31.opus'
-    - name: '[O] A Vision.opus'
-    - name: '[C] Also Sprach Brooks.opus'
-    - name: '[PLvsAA] Bakery.opus'
-    - name: '[P5] Beneath the Mask.opus'
-    - name: '[P5] Beneath the Mask (Rain).opus'
-    - name: '[P3] Blues In Velvet Room.opus'
-    - name: '[O] Brick Ballades Houston Street.opus'
-    - name: '[GT] Chase.opus'
-    - name: '[TC] Gentle Breeze.opus'
-    - name: "[T&T] Godot's Jazz Blend.opus"
-    - name: '[B] In the Speak Easy.opus'
-    - name: '[PLvsAA] In-Flight.opus'
-    - name: '[AC] 7pm.opus'
-    - name: '[C] Jouji Washington.opus'
-    - name: '[DP] Life is Beautiful.opus'
-    - name: '[HD] Monochrome.opus'
-    - name: '[O] Procrastination.opus'
-    - name: "[PLvsAA] Rouge's Tavern.opus"
-    - name: '[YES] Roundabout.opus'
-    - name: '[C] Roux.opus'
-    - name: '[HD] Straight Chaser.opus'
-    - name: '[RK] The Lazy Detective Agency.opus'
-    - name: '[PLvsAA] The Lost Forest.opus'
-    - name: '[P3R] Want To Be Close.opus'
 - category: ===MISCELLANEOUS===
   songs:
     - name: '[AOV] anime.opus'
@@ -855,21 +853,20 @@
     - name: '[Serb] Kebab Remover.opus'
     - name: '[Misc] Wake Me Up.opus'
     - name: '[Misc] Want You Gone.opus'
-- category: ===MOD===
-  mod: 1
-  songs:
-    - name: '[MOD] Conway - Chicken Wings.opus'
-      length: 0
-    - name: '[MOD] abuse.opus'
-      length: 0
-    - name: '[MOD] Normies.opus'
-      length: 0
-    - name: '[MOD] 39 dollars.opus'
-      length: 0
-    - name: '[MOD] Dick Gumshoe - Payday.opus'
-      length: 0
-    - name: '[MOD] modsong.opus'
-      length: 0
+#- category: ===MOD===
+#  songs:
+#    - name: '[MOD] Conway - Chicken Wings.opus'
+#      length: 0
+#   - name: '[MOD] abuse.opus'
+#      length: 0
+#    - name: '[MOD] Normies.opus'
+#      length: 0
+#    - name: '[MOD] 39 dollars.opus'
+#      length: 0
+#    - name: '[MOD] Dick Gumshoe - Payday.opus'
+#      length: 0
+#    - name: '[MOD] modsong.opus'
+#      length: 0
 - category: ===CUSTOM===
   songs:
     - name: Custom Song 1.opus
