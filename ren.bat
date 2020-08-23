@@ -1,0 +1,13 @@
+ren "base\sounds\music\[RK] The Lazy Detective Agency.*" "[SMT] The Lazy Detective Agency.*"
+ren "base\sounds\music\[GT] Bizarre People.*" "[GT] Awakening.*" 
+ren "base\sounds\music\[L&D] Questioning (Allegro).*" "[SiG] Questioning (Allegro).*" 
+ren "base\sounds\music\[L&D] Questioning (Presto).*" "[SiG] Questioning (Presto).*" 
+ren "base\sounds\music\[L&D] Funk Debate.*" "[SiG] Funk Debate.*" 
+ren "base\sounds\music\[L&D] Pursuit.*" "[SiG] Pursuit.*" 
+ren "base\sounds\music\[L&D] Investigation (Opening).*" "[SiG] Investigation (Opening).*" 
+ren "base\sounds\music\[L&D] Investigation (Core).*" "[SiG] Investigation (Core).*" 
+ren "base\sounds\music\[L&D] 4 Minutes Before Death.*" "[SiG] 4 Minutes Before Death.*" 
+ren "base\sounds\music\[GT] Elegy for the Torn-off Gentleman.*" "[GT] Justice Minister - Elegy for the Torn-off Gentleman.*" 
+ren "base\sounds\music\[GT] An Enveloping Smell of Roses.*" "[GT] Madam - An Enveloping Smell of Roses.*" 
+ren "base\sounds\music\[GT] A Ray of Light.*" "[GT] Ray - A Ray of Light.*" 
+pause
