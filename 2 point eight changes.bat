@@ -287,4 +287,359 @@ del "base\characters\Furio\takethat.wav" /s /q
 del "base\characters\Gant\holdit.wav" /s /q
 del "base\characters\Gant\objection.wav" /s /q
 del "base\characters\Gant\takethat.wav" /s /q
+del "base\characters\Garan\TakeThat.wav" /s /q
+del "base\characters\Garan\takethat_bubble.apng" /s /q
+del "base\characters\Garan Queen\TakeThat.wav" /s /q
+del "base\characters\Geiru\HoldIt.wav" /s /q
+del "base\characters\Geiru\Objection.wav" /s /q
+del "base\characters\Geiru\TakeThat.wav" /s /q
+del "base\characters\Gina DGS2\holdit.wav" /s /q
+del "base\characters\Gina DGS2\takethat.wav" /s /q
+del "base\characters\Gina DGS2\holdit_bubble.apng" /s /q
+del "base\characters\Gina DGS2\takethat_bubble.apng" /s /q
+del "base\characters\Gina Lestrade\holdit.wav" /s /q
+del "base\characters\Gina Lestrade\takethat.wav" /s /q
+del "base\characters\Gina Lestrade\holdit_bubble.apng" /s /q
+del "base\characters\Gina Lestrade\takethat_bubble.apng" /s /q
+del "base\characters\Gina Lestrade Coat\holdit.wav" /s /q
+del "base\characters\Gina Lestrade Coat\takethat.wav" /s /q
+del "base\characters\Gina Lestrade Coat\holdit_bubble.apng" /s /q
+del "base\characters\Gina Lestrade Coat\takethat_bubble.apng" /s /q
+del "base\characters\Gossip\holdit.wav" /s /q
+del "base\characters\Gossip\objection.wav" /s /q
+del "base\characters\Gossip\takethat.wav" /s /q
+del "base\characters\Gossip\holdit_bubble.apng" /s /q
+del "base\characters\Gossip\objection_bubble.apng" /s /q
+del "base\characters\Gossip\takethat_bubble.apng" /s /q
+del "base\characters\Gotts\holdit.wav" /s /q
+del "base\characters\Gotts\objection.wav" /s /q
+del "base\characters\Gotts\takethat.wav" /s /q
+del "base\characters\Gotts\holdit_bubble.apng" /s /q
+del "base\characters\Gotts\objection_bubble.apng" /s /q
+del "base\characters\Gotts\takethat_bubble.apng" /s /q
+del "base\characters\Goulloyne\holdit.wav" /s /q
+del "base\characters\Goulloyne\objection.wav" /s /q
+del "base\characters\Goulloyne\takethat.wav" /s /q
+del "base\characters\Goulloyne\holdit_bubble.apng" /s /q
+del "base\characters\Goulloyne\objection_bubble.apng" /s /q
+del "base\characters\Goulloyne\takethat_bubble.apng" /s /q
+del "base\characters\Grey\holdit.wav" /s /q
+del "base\characters\Grey\objection.wav" /s /q
+del "base\characters\Grey\takethat.wav" /s /q
+del "base\characters\Grosky\holdit.wav" /s /q
+del "base\characters\Grosky\objection.wav" /s /q
+del "base\characters\Grosky\takethat.wav" /s /q
+del "base\characters\Grossberg\holdit.wav" /s /q
+del "base\characters\Grossberg\objection.wav" /s /q
+del "base\characters\Grossberg\takethat.wav" /s /q
+del "base\characters\Grossberg Old\holdit.wav" /s /q
+del "base\characters\Grossberg Old\objection.wav" /s /q
+del "base\characters\Grossberg Old\takethat.wav" /s /q
+del "base\characters\Guy\holdit.wav" /s /q
+del "base\characters\Guy\objection.wav" /s /q
+del "base\characters\Guy\takethat.wav" /s /q
+del "base\characters\Haori\holdit.wav" /s /q
+del "base\characters\Haori\objection.wav" /s /q
+del "base\characters\Haori\takethat.wav" /s /q
+del "base\characters\Haori\holdit_bubble.apng" /s /q
+del "base\characters\Haori\objection_bubble.apng" /s /q
+del "base\characters\Haori\takethat_bubble.apng" /s /q
+del "base\characters\Hazama\holditalt.wav" /s /q
+del "base\characters\Hemlock\holdit.wav" /s /q
+del "base\characters\Hemlock\objection.wav" /s /q
+del "base\characters\Hemlock\takethat.wav" /s /q
+del "base\characters\Hobbes\holdit.wav" /s /q
+del "base\characters\Hobbes\takethat.wav" /s /q
+del "base\characters\Hobbes\holdit_bubble.apng" /s /q
+del "base\characters\Hobbes\takethat_bubble.apng" /s /q
+del "base\characters\Hobbes Def\holdit.wav" /s /q
+del "base\characters\Hobbes Def\takethat.wav" /s /q
+del "base\characters\Hobbes Def\holdit_bubble.apng" /s /q
+del "base\characters\Hobbes Def\takethat_bubble.apng" /s /q
+del "base\characters\Hosonaga\holdit.wav" /s /q
+del "base\characters\Hosonaga\objection.wav" /s /q
+del "base\characters\Hosonaga\takethat.wav" /s /q
+del "base\characters\Hosonaga\holdit_bubble.apng" /s /q
+del "base\characters\Hosonaga\objection_bubble.apng" /s /q
+del "base\characters\Hosonaga\takethat_bubble.apng" /s /q
+del "base\characters\Hugh\holdit.wav" /s /q
+del "base\characters\Hugh\objection.wav" /s /q
+del "base\characters\Hugh\takethat.wav" /s /q
+del "base\characters\Hugh\holdit_bubble.apng" /s /q
+del "base\characters\Hugh\objection_bubble.apng" /s /q
+del "base\characters\Hugh\takethat_bubble.apng" /s /q
+del "base\characters\Hugh Def\holdit.wav" /s /q
+del "base\characters\Hugh Def\objection.wav" /s /q
+del "base\characters\Hugh Def\takethat.wav" /s /q
+del "base\characters\Hutch Windibank\objection.wav" /s /q
+del "base\characters\Hutch Windibank\takethat.wav" /s /q
+del "base\characters\Hutch Windibank\objection_bubble.apng" /s /q
+del "base\characters\Hutch Windibank\takethat_bubble.apng" /s /q
+del "base\characters\Inga\HoldIt.wav" /s /q
+del "base\characters\Inga\Objection.wav" /s /q
+del "base\characters\Inga\TakeThat.wav" /s /q
+del "base\characters\Inga\holdit_bubble.gif" /s /q
+del "base\characters\Inga\objection_bubble.apng" /s /q
+del "base\characters\Inga\takethat_bubble.apng" /s /q
+del "base\characters\Ini\holdit.wav" /s /q
+del "base\characters\Ini\objection.wav" /s /q
+del "base\characters\Ini\takethat.wav" /s /q
+del "base\characters\Iris\holdit.wav" /s /q
+del "base\characters\Iris\objection.wav" /s /q
+del "base\characters\Iris\takethat.wav" /s /q
+del "base\characters\Iris Watson\takethat.wav" /s /q
+del "base\characters\Iris Watson\takethat_bubble.apng" /s /q
+del "base\characters\Iris Watson Assistant\takethat.wav" /s /q
+del "base\characters\Iris Watson Assistant\takethat_bubble.apng" /s /q
+del "base\characters\Ishimaru Kiyotaka\takethat.wav" /s /q
+del "base\characters\Jay Elbird\holdit.wav" /s /q
+del "base\characters\Jay Elbird\objection.wav" /s /q
+del "base\characters\Jay Elbird\takethat.wav" /s /q
+del "base\characters\Jeffrey Master\holdit.wav" /s /q
+del "base\characters\Jeffrey Master\objection.wav" /s /q
+del "base\characters\Jeffrey Master\takethat.wav" /s /q
+del "base\characters\Jezail\Objection.wav" /s /q
+del "base\characters\Jezail\TakeThat.wav" /s /q
+del "base\characters\Jezail\objection_bubble.apng" /s /q
+del "base\characters\Jezail\takethat_bubble.apng" /s /q
+del "base\characters\Jinxie\holdit.wav" /s /q
+del "base\characters\Jinxie\objection.wav" /s /q
+del "base\characters\Jinxie\takethat.wav" /s /q
+del "base\characters\Jinxie\holdit_bubble.apng" /s /q
+del "base\characters\Jinxie\objection_bubble.apng" /s /q
+del "base\characters\Jinxie\takethat_bubble.apng" /s /q
+del "base\characters\Joan Garrideb\holdit.wav" /s /q
+del "base\characters\Joan Garrideb\objection.wav" /s /q
+del "base\characters\Joan Garrideb\Takethat.wav" /s /q
+del "base\characters\Joan Garrideb\holdit_bubble.apng" /s /q
+del "base\characters\Joan Garrideb\objection_bubble.apng" /s /q
+del "base\characters\Joan Garrideb\takethat_bubble.apng" /s /q
+del "base\characters\Joan Garrideb Juror\takethat.wav" /s /q
+del "base\characters\Joan Garrideb Juror\takethat_bubble.apng" /s /q
+del "base\characters\John Garrideb\holdit.wav" /s /q
+del "base\characters\John Garrideb\objection.wav" /s /q
+del "base\characters\John Garrideb\takethat.wav" /s /q
+del "base\characters\John Garrideb\holdit_bubble.apng" /s /q
+del "base\characters\John Garrideb\objection_bubble.apng" /s /q
+del "base\characters\John Garrideb\takethat_bubble.apng" /s /q
+del "base\characters\John Marsh\holdit.wav" /s /q
+del "base\characters\John Marsh\objection.wav" /s /q
+del "base\characters\John Marsh\takethat.wav" /s /q
+del "base\characters\Josephine\holdit.wav" /s /q
+del "base\characters\Josephine\objection.wav" /s /q
+del "base\characters\Josephine\takethat.wav" /s /q
+del "base\characters\Josephine\holdit_bubble.apng" /s /q
+del "base\characters\Josephine\objection_bubble.apng" /s /q
+del "base\characters\Josephine\takethat_bubble.apng" /s /q
+del "base\characters\Judge\takethat.wav" /s /q
+del "base\characters\Judge 3D\holdit.wav" /s /q
+del "base\characters\Judge 3D\objection.wav" /s /q
+del "base\characters\Judge 3D\takethat.wav" /s /q
+del "base\characters\Judge 3D\holdit_bubble.gif" /s /q
+del "base\characters\Judge 3D\objection_bubble.gif" /s /q
+del "base\characters\Judge GK\takethat.wav" /s /q
+del "base\characters\Judge GK2\takethat.wav" /s /q
+del "base\characters\Judge JP\holdit.wav" /s /q
+del "base\characters\Judge JP\objection.wav" /s /q
+del "base\characters\Judge JP\takethat.wav" /s /q
+del "base\characters\Judge JP\holdit_bubble.apng" /s /q
+del "base\characters\Judge JP\objection_bubble.apng" /s /q
+del "base\characters\Judge Labyrinthia Edit\holdit.wav" /s /q
+del "base\characters\Judge Labyrinthia Edit\objection.wav" /s /q
+del "base\characters\Judge Labyrinthia Edit\takethat.wav" /s /q
+del "base\characters\Judge Labyrinthia Edit\holdit_bubble.apng" /s /q
+del "base\characters\Judge Labyrinthia Edit\objection_bubble.apng" /s /q
+del "base\characters\JudgeKhura'in\holdit.wav" /s /q
+del "base\characters\JudgeKhura'in\objection.wav" /s /q
+del "base\characters\JudgeKhura'in\takethat.wav" /s /q
+del "base\characters\JudgeKhura'in\holdit_bubble.apng" /s /q
+del "base\characters\JudgeKhura'in\objection_bubble.apng" /s /q
+del "base\characters\Judge's Bro\takethat.wav" /s /q
+del "base\characters\June\holdit.wav" /s /q
+del "base\characters\June\objection.wav" /s /q
+del "base\characters\June\takethat.wav" /s /q
+del "base\characters\Juniper Casual\holdit.wav" /s /q
+del "base\characters\Juniper Casual\objection.wav" /s /q
+del "base\characters\Juniper Casual\takethat.wav" /s /q
+del "base\characters\Juniper Casual\holdit_bubble.apng" /s /q
+del "base\characters\Juniper Casual\objection_bubble.apng" /s /q
+del "base\characters\Juniper Casual\takethat_bubble.apng" /s /q
+del "base\characters\Juniper School\holdit.wav" /s /q
+del "base\characters\Juniper School\objection.wav" /s /q
+del "base\characters\Juniper School\takethat.wav" /s /q
+del "base\characters\Juniper School\holdit_bubble.apng" /s /q
+del "base\characters\Juniper School\objection_bubble.apng" /s /q
+del "base\characters\Juniper School\takethat_bubble.apng" /s /q
+del "base\characters\Katherine Hall\holdit.wav" /s /q
+del "base\characters\Katherine Hall\objection.wav" /s /q
+del "base\characters\Katherine Hall\takethat.wav" /s /q
+del "base\characters\Katrielle Layton\holdit.wav" /s /q
+del "base\characters\Katrielle Layton\objection.wav" /s /q
+del "base\characters\Katrielle Layton\takethat.wav" /s /q
+del "base\characters\Kay\holdit.wav" /s /q
+del "base\characters\Kay\objection.wav" /s /q
+del "base\characters\Kay\Takethat.wav" /s /q
+del "base\characters\Kay Injured\holdit.wav" /s /q
+del "base\characters\Kay Injured\objection.wav" /s /q
+del "base\characters\Kay Injured\Takethat.wav" /s /q
+del "base\characters\Kazuma\takethat.wav" /s /q
+del "base\characters\Kazuma\takethat_bubble.apng" /s /q
+del "base\characters\Kazuma Assistant\takethat.wav" /s /q
+del "base\characters\Kazuma Assistant\takethat_bubble.apng" /s /q
+del "base\characters\Kazuma W\takethat.wav" /s /q
+del "base\characters\Kazuma W\takethat_bubble.apng" /s /q
+del "base\characters\Klavier\holdit.wav" /s /q
+del "base\characters\Klavier\takethat.wav" /s /q
+del "base\characters\Klavier DD Pro\holdit.wav" /s /q
+del "base\characters\Klavier DD Pro\takethat.wav" /s /q
+del "base\characters\Klavier DD Pro\holdit_bubble.apng" /s /q
+del "base\characters\Klavier DD Pro\takethat_bubble.apng" /s /q
+del "base\characters\Klavier DD Wit\holdit.wav" /s /q
+del "base\characters\Klavier DD Wit\takethat.wav" /s /q
+del "base\characters\Klavier DD Wit\holdit_bubble.apng" /s /q
+del "base\characters\Klavier DD Wit\takethat_bubble.apng" /s /q
+del "base\characters\Klavier Young\holdit.wav" /s /q
+del "base\characters\Klavier Young\takethat.wav" /s /q
+del "base\characters\Klavier\holdit.wav" /s /q
+del "base\characters\Klavier\takethat.wav" /s /q
+del "base\characters\Knightley\holdit.wav" /s /q
+del "base\characters\Knightley\takethat.wav" /s /q
+del "base\characters\Kristoph\holdit.wav" /s /q
+del "base\characters\Kristoph\takethat.wav" /s /q
+del "base\characters\Kudo\holdit.wav" /s /q
+del "base\characters\Kudo\objection.wav" /s /q
+del "base\characters\Kudo\takethat.wav" /s /q
+del "base\characters\Lamiroir\holdit.wav" /s /q
+del "base\characters\Lamiroir\objection.wav" /s /q
+del "base\characters\Lamiroir\takethat.wav" /s /q
+del "base\characters\Lana\holdit.wav" /s /q
+del "base\characters\Lana\objection.wav" /s /q
+del "base\characters\Lana\takethat.wav" /s /q
+del "base\characters\LanaP\holdit.wav" /s /q
+del "base\characters\LanaP\objection.wav" /s /q
+del "base\characters\LanaP\objection.mp3" /s /q
+del "base\characters\LanaP\takethat.wav" /s /q
+del "base\characters\Lauren Paups\holdit.wav" /s /q
+del "base\characters\Lauren Paups\objection.wav" /s /q
+del "base\characters\Lauren Paups\takethat.wav" /s /q
+del "base\characters\Lbelle\holdit.wav" /s /q
+del "base\characters\Lbelle\objection.wav" /s /q
+del "base\characters\Lbelle\takethat.wav" /s /q
+del "base\characters\Lbelle\holdit_bubble.apng" /s /q
+del "base\characters\Lbelle\objection_bubble.apng" /s /q
+del "base\characters\Lbelle\takethat_bubble.apng" /s /q
+del "base\characters\LeTouse\holdit.wav" /s /q
+del "base\characters\LeTouse\objection.wav" /s /q
+del "base\characters\LeTouse\takethat.wav" /s /q
+del "base\characters\Lisa\holdit.wav" /s /q
+del "base\characters\Lisa\objection.wav" /s /q
+del "base\characters\Lisa\takethat.wav" /s /q
+del "base\characters\Long Lang\custom.wav" /s /q
+del "base\characters\Long Lang\custom.apng" /s /q
+del "base\characters\Long Lang\takethat.wav" /s /q
+del "base\characters\Lotta\holdit.wav" /s /q
+del "base\characters\Lotta\objection.wav" /s /q
+del "base\characters\Lotta\takethat.wav" /s /q
+del "base\characters\Lotta AAI\holdit.wav" /s /q
+del "base\characters\Lotta AAI\objection.wav" /s /q
+del "base\characters\Lotta AAI\takethat.wav" /s /q
+del "base\characters\Lotus\holdit.wav" /s /q
+del "base\characters\Lotus\objection.wav" /s /q
+del "base\characters\Lotus\takethat.wav" /s /q
+del "base\characters\Lucy Baker\holdit.wav" /s /q
+del "base\characters\Lucy Baker\objection.wav" /s /q
+del "base\characters\Lucy Baker\takethat.wav" /s /q
+del "base\characters\Luke\takethat.wav" /s /q
+del "base\characters\Luke Adult\holdit.wav" /s /q
+del "base\characters\Luke Adult\objection.wav" /s /q
+del "base\characters\Luke Adult\takethat.wav" /s /q
+del "base\characters\Lynne\holdit.wav" /s /q
+del "base\characters\Lynne\objection.wav" /s /q
+del "base\characters\Lynne\takethat.wav" /s /q
+del "base\characters\Machi Tobaye\holdit.wav" /s /q
+del "base\characters\Machi Tobaye\takethat.wav" /s /q
+del "base\characters\Mae\holdit.wav" /s /q
+del "base\characters\Mae\objection.wav" /s /q
+del "base\characters\Mae\takethat.wav" /s /q
+del "base\characters\Mae\holdit_bubble.apng" /s /q
+del "base\characters\Mae\objection_bubble.apng" /s /q
+del "base\characters\Mae\takethat_bubble.apng" /s /q
+del "base\characters\Maggey\holdit.wav" /s /q
+del "base\characters\Maggey\objection.wav" /s /q
+del "base\characters\Maggey\takethat.wav" /s /q
+del "base\characters\Maggey AAI\holdit.wav" /s /q
+del "base\characters\Maggey AAI\objection.wav" /s /q
+del "base\characters\Maggey AAI\takethat.wav" /s /q
+del "base\characters\Makepeace\holdit.wav" /s /q
+del "base\characters\Makepeace\objection.wav" /s /q
+del "base\characters\Makepeace\takethat.wav" /s /q
+del "base\characters\Mamemomi\holdit.wav" /s /q
+del "base\characters\Mamemomi\objection.wav" /s /q
+del "base\characters\Mamemomi\takethat.wav" /s /q
+del "base\characters\Mamemomi\holdit_bubble.apng" /s /q
+del "base\characters\Mamemomi\objection_bubble.apng" /s /q
+del "base\characters\Mamemomi\takethat_bubble.apng" /s /q
+del "base\characters\Manfred\holdit.wav" /s /q
+del "base\characters\Manfred\takethat.wav" /s /q
+del "base\characters\Manfred AAI\holdit.wav" /s /q
+del "base\characters\Manfred AAI\takethat.wav" /s /q
+del "base\characters\Marie\holdit.wav" /s /q
+del "base\characters\Marie\takethat.wav" /s /q
+del "base\characters\Marlon Rimes\HoldIt.wav" /s /q
+del "base\characters\Marlon Rimes\Objection.wav" /s /q
+del "base\characters\Marlon Rimes\TakeThat.wav" /s /q
+del "base\characters\Matilda\holdit.wav" /s /q
+del "base\characters\Matilda\objection.wav" /s /q
+del "base\characters\Matilda\takethat.wav" /s /q
+del "base\characters\Matilda\holdit_bubble.apng" /s /q
+del "base\characters\Matilda\objection_bubble.apng" /s /q
+del "base\characters\Matilda\takethat_bubble.apng" /s /q
+del "base\characters\Matilda Headset\holdit.wav" /s /q
+del "base\characters\Matilda Headset\objection.wav" /s /q
+del "base\characters\Matilda Headset\takethat.wav" /s /q
+del "base\characters\Matilda Headset\holdit_bubble.apng" /s /q
+del "base\characters\Matilda Headset\objection_bubble.apng" /s /q
+del "base\characters\Matilda Headset\takethat_bubble.apng" /s /q
+del "base\characters\Matt\holdit.wav" /s /q
+del "base\characters\Matt\objection.wav" /s /q
+del "base\characters\Matt\takethat.wav" /s /q
+del "base\characters\Max\holdit.wav" /s /q
+del "base\characters\Max\objection.wav" /s /q
+del "base\characters\Max\takethat.wav" /s /q
+del "base\characters\Maya\holdit.wav" /s /q
+del "base\characters\Maya\objection.wav" /s /q
+del "base\characters\Maya\takethat.wav" /s /q
+del "base\characters\Maya Mushin\holdit.wav" /s /q
+del "base\characters\Maya Mushin\objection.wav" /s /q
+del "base\characters\Maya Mushin\takethat.wav" /s /q
+del "base\characters\MayaAAI\holdit.wav" /s /q
+del "base\characters\MayaAAI\objection.wav" /s /q
+del "base\characters\MayaAAI\takethat.wav" /s /q
+del "base\characters\MayaKid\holdit.wav" /s /q
+del "base\characters\MayaKid\objection.wav" /s /q
+del "base\characters\MayaKid\takethat.wav" /s /q
+del "base\characters\MayaPLvsAA\takethat.wav" /s /q
+del "base\characters\MayaPLvsAA Co\takethat.wav" /s /q
+del "base\characters\MayaPLvsAA Co Knight\takethat.wav" /s /q
+del "base\characters\MayaSOJ\holdit.wav" /s /q
+del "base\characters\MayaSOJ\objection.wav" /s /q
+del "base\characters\MayaSOJ\takethat.wav" /s /q
+del "base\characters\MayaSOJ\char(cloak).ini" /s /q
+del "base\characters\MayaSOJ\char(cloak).txt" /s /q
+del "base\characters\Means\holdit.wav" /s /q
+del "base\characters\Means\objection.wav" /s /q
+del "base\characters\Means\takethat.wav" /s /q
+del "base\characters\Meekins\holdit.wav" /s /q
+del "base\characters\Meekins\objection.wav" /s /q
+del "base\characters\Meekins\takethat.wav" /s /q
+del "base\characters\Megundal\holdit.wav" /s /q
+del "base\characters\Megundal\takethat.wav" /s /q
+del "base\characters\Megundal\holdit_bubble.apng" /s /q
+del "base\characters\Megundal\takethat_bubble.apng" /s /q
+del "base\characters\MilesSOJ\holdit.wav" /s /q
+del "base\characters\MilesSOJ\takethat.wav" /s /q
+del "base\characters\MilesSOJ\holdit_bubble.apng" /s /q
+del "base\characters\MilesSOJ\takethat_bubble.apng" /s /q
+del "base\characters\MilesSOJ\custom.apng" /s /q
+del "base\characters\MilesSOJ\custom.wav" /s /q
 pause
